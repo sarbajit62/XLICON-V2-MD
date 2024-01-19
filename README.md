@@ -18,14 +18,14 @@ XLICON-V2 is a versatile Multi-Device WhatsApp bot developed by [sarbajit mahato
 <p align="center"><img src="https://profile-counter.glitch.me/{SARBAJIT-FF}/count.svg" alt="SARBAJIT MAHATO :: Visitor's Count" /></p>
 
 ### **Bot Statistics**
-![Bot Repository Size](https://img.shields.io/github/repo-size/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Issues](https://img.shields.io/github/issues/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Stars](https://img.shields.io/github/stars/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Forks](https://img.shields.io/github/forks/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Watchers](https://img.shields.io/github/watchers/salmanytofficial/XLICON-V2-MD?label=Watchers&style=for-the-badge)
-![Bot Repository Contributors](https://img.shields.io/github/contributors/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
-![Bot Repository License](https://img.shields.io/github/license/salmanytofficial/XLICON-V2-MD?style=for-the-badge)
+![Bot Repository Size](https://img.shields.io/github/repo-size/sarbajit-ff-md?style=for-the-badge)
+![Bot Repository Issues](https://img.shields.io/github/issues/sarbajit-ff-md?style=for-the-badge)
+![Bot Repository Stars](https://img.shields.io/github/stars/sarbajit-ff-md?style=for-the-badge)
+![Bot Repository Forks](https://img.shields.io/github/forks/sarbajit-ff-md?style=for-the-badge)
+![Bot Repository Watchers](https://img.shields.io/github/watchers/sarbajit-ff-md?label=Watchers&style=for-the-badge)
+![Bot Repository Contributors](https://img.shields.io/github/contributors/sarbajit-ff-md?style=for-the-badge)
+![Bot Repository Pull Requests](https://img.shields.io/github/issues-pr/sarbajit-ff-md?style=for-the-badge)
+![Bot Repository License](https://img.shields.io/github/license/sarbajit-ff-md?style=for-the-badge)
 
 ####  
 *SARBAJIT-FF* - A Advanced Multi Device whatsapp bot Based on *GURU-BOT*
